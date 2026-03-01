@@ -1,6 +1,5 @@
 # Hunter's Pet Game - AR Pet Game
 **Final Year Project (FYP)**
-![Uploading Portal for Exploring Pet Breeds1 (Virtual Portal but entered in real world).png…]()
 
 Duration: 3–4 months
 Type: Mobile Augmented Reality (AR) Application
